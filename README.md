@@ -1,2 +1,2 @@
 # Node-Pathfinder
-Shows a pathfinding algorithm between two nodes in a GUI. Click the file AaryaRadhanPathFinder.py, make sure your device has the latest version of pygame installed.
+Shows a pathfinding algorithm between two nodes in a GUI. Click the file AaryaRadhanPathFinder.py, download to computer. Run the code, and click two points on the grid to represent two nodes, then click around anywhere in between the two nodes to build barriers. Finally, click the space bar to run the pathfinder. You can find the time that it took for the path to be made in the exit statement. Make sure your device has the latest version of pygame installed.
